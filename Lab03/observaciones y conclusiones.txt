@@ -1,0 +1,13 @@
+ - Manejamos errores, y desarrollamos un landing page, para redirigir URL usando peticiones
+   HTTP. Express es un potente framework web. 
+ - Que usualmente se usa para crear aplicaciones web y APIs.
+ - Desarrollamos un sitio web usando express.js que esta escrito en Js y se aloja dentro de
+   el entorno de ejecucion de Node.
+ - Para crear un proyecto en express usamos el manejador de paquetes npm.
+
+ - Realizamos peticiones HTTP en express, usando rutas, y middlewares, para capturar las URL.
+
+ - Agregamos archivos estaticos como imagenes , hojas de estilo y archivos JS, donde colocamos
+   todo esto en la carpeta publica del proyecto para asi llamar directamente desde cualquier archivo o ruta.
+ - Entendimiento de ejecucion de funciones en JavaScript.
+

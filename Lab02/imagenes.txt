@@ -1,0 +1,27 @@
+Ejemplo1
+	La funcion  imprime 4 numeros  del 1 al 4, pero como 2 funciones cuenta con tiempo
+        de espera, se imprime primero el 1, luego el 4, luego el 3 por que tiene un timeOut
+        de 0, aun asi se imprime despues del 4 y al final el 2, por que tiene un timeOut de 1 segundo.
+Ejemplo2
+	Arreglamos el codigo, agregamos botones por cada click .
+Ejemplo3
+	Llamamos a una funcion externa que esta llama a la funcion interna la cual llama a  la variable
+        de la funcion externa y esto lo que se devuelve.
+futbolista
+	Creamos dos variables,y llamamos a  la primera que no hay ningun gol, luego a la segunda que nos
+        informa 0 goles, y la ultima en la cual tenemos 4 goles.
+persona-edad
+	Tenemos a dos personas con edades diferentes, creamos dos funciones para ingresar las edades 
+	, pero estas funciones las llamamos desde otro objeto y se obtiene la edad de la persona llamada.
+Tarea1
+	Creamos una funcion que nos reciba dos variables y al ejecutarlas nos imprima la mayor.
+Tarea2
+	Creamos una funcion en la cual nos de cvomo resultado el album que tiene mas reproducciones.
+Tarea3
+	Tenemos 4 datos , el cual nos da dos resuktados diferentes dentro de estas cifras tenemos dos
+        tipos de sumas.
+Tarea4
+	Creamos dos Arrays uno en el cual insertabamos numeros naturales, desordenados , y el otro el 
+        cual nos daria estos numeros ordenados.
+Tarea5
+	el album mas reproducido es el que sera el album favorito.

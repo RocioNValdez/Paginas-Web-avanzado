@@ -1,0 +1,9 @@
+  - Instalamos paquetes a traves del comando npm install.
+  - Agregamos un boton por cada click que se cree en la lista.
+  - creamos una funcion en la cual los numeros del 1 al 4 eran ordenados de una
+    manera diferente, ya que cada uno se ejecutaba antes que el otro.
+  - En la variable persona que se requiere 2 parametros de nombre y edad, se crean 2 funciones
+    para ingresar edad y obtenerla pero estas funciones las llamamos desde otro objeto de 
+    Programador, y si obtenemos la edad, heradamos las funciones de la Persona.
+  - Realizamos funciones de javascript , ya que node.js esta en lenguaje javascript.
+

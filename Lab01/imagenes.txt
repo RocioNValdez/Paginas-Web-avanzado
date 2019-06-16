@@ -1,0 +1,26 @@
+IMG1
+	Creamos una clase hola.js  con el contenido "Hola mundito", usando un servidor,
+	utilizamos el puerto 3000.
+IMG2
+	Imprimimos a treaves del CMD el mensaje de #hola mundito"
+IMG3
+	Creamos la clase bucle.js en el cual creamos una varable , que empieze desde 0
+        la cuenta de los numeros, este bucle es infinito.
+IMG4, IMG5, IMG6
+	Llamamos al bucle.js , el cual se imprime infinitamente, y se pocisiona 
+        verticalmente.
+IMG7
+	Tenemos un archivo index.html, el web.js
+IMG8
+	De nuevo ejecutamos el web.js a traves de CMD y la buscamos en html con localhost:3000.
+IMG9
+	Tenemos la clase variable.js, en este caso nuestro contenido es un hola y la variable 
+	nombre que puede ser reemplazado por cualquier nombre. 
+IMG10
+	lo ejecutamos a traves del comando, y escribemos localhost:3000/?nombre=cualquier nombre
+   	y nos da el resultado de "Hola cualquier nombre".
+IMG11
+	El form.html  es otro servidor en cual se pueda llamar en una pagina de internet.
+ 
+	
+	

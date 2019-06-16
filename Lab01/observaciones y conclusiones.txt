@@ -1,0 +1,5 @@
+- Levantamos un servidor con node.js.
+- Usamos la funcion redfile para leer los archivos.
+- Node es muy potente en la parte del codigo con el servidor.
+- Al instlar el node.js instalamos su gestor de paquetes npm.
+- Creamos modulos en donde reemplazabamos los parametros desde el codigo.
