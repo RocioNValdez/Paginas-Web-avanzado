@@ -1,0 +1,19 @@
+
+Captura---La interfaz de CRUD con soketio, para agregar datos.
+Datos en mongoDB---Los datos insertados son guardados en mongoDB.
+Guardado--nuestro primer dato mostrado en la pagina.
+Datos---Ingresando nuestros primeros datos.
+Editado---Tenemos todos nuestros datos y podemos actualizarlos(editarlos).
+eeditar---Se pinta de color anaranjado, el dato que queriamos editar .
+
+Nuestro codigo, y el puerto en el que trabajamos,nuestro servidor, y 
+todas nuestras variabes manejadas en bd.
+IMG1,IMg2,IMG3
+-------------------------------------------------------------------------------------------------
+- Usamos JQuery para los diseños que pondremos.
+- Hicimos uso de Jade para las vistas, ya que nos proporciona un desarrollo mas rapido en 
+  el lado del front.end.
+- Al inicio no se ejecutaba el diseño de la interfaz pero luego cargo y se arreglo.
+- Vimos como se mejoraba poco a poco la pagina.
+- Realizamos una conexion con Mongo para hacer la conexion con nuestra bd en Mongo.
+- Vimos la actualziacion de datos en tiempo real.
