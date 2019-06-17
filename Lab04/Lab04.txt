@@ -1,0 +1,22 @@
+
+- Vemos los resultados en el postman.
+- Probamos la conexion con producto y vemos que llama los datos del mongoDB en formato JSON
+- Empezamos a probar los delete.
+- Probamos el metodo PUT insertando datos.
+- Probamos el login .
+- Ahora vemos como llamamos los datos del mongoDB a una tabla.
+----------------------------------------------------------------------------------------------
+
+Observaciones y Conclusiones:
+-Estamos usando Los metodos diferentes metodos http que son
+ app.get -> producto.show  : Para buscar un producto.
+ app.post-> producto.create: Para crear un producto.
+ app.post-> producto.update: Para actualizar un producto.
+ app.post-> producto.delete: para borrar un producto.
+- Empezamos a instalar las dependencias en el lab pasado para poder iniciar la conexion
+- Utilizamos  mongoDB  , lo utilizamos para poider manejar datos.
+- llevamos los datos de la tabla a la pagina.
+- Al tratar de conectar con los archivos jade nos daba un error para lo cual tuvimos que 
+   instalar su paquete.
+- Creamos las operaciones CRUD.
+- Aprendimos a conectar los datos de la base de datos a nuestra pag web.
