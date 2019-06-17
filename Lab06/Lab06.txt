@@ -1,0 +1,18 @@
+Inicio---Presentamos una pequeñ idea de lo que es la pagina, y no tiene una interfaz, solo letras.
+Mensaje deAPI---Muestra que nuestra API funcion.
+SErvidor---Nuestro servidor iniciado en el puerto 5000.
+DatosPostman---En nuestro postman vemos nuestros datos al ser registrados.
+Usuario agregado---El usuario registrado, podemos ver los datos en mongoDB.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+- Instalamos mas librerias para que nos ayuden en nuestro codigo.
+- Creamos nuestra API con Express en donde haciamos peticion es  http, para crear usuarios.
+- Realizamos simples vistas con React.JS y con axios que nos permite hacer peticiones HTTP 
+  consumimos nuestra API creada con express.
+- Usamos unas Lineas de comando para instalar mas librerias
+- Creamos un login en react native, de usuario y contrseña .
+- Creamos nuestra aplicacion web en React.JS en la que creamos los componentes necesarios
+  para el funcionamiento del front-end.
+- En cada peticion del servidor se debe comprobar el token proporcionado por el usuario y si
+  es correcto podra acceder a los recursos solicitados, de otra forma debera denegar la peticion.

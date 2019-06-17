@@ -1,0 +1,19 @@
+
+First---Primer slide probado en nuestra pagina de inicio.
+Third---Otro modelo de slide.
+Detalles---Es como un menu horizontal en nuestra pagina.
+Etorno de la interfaz---Nuestro fourth slide, en nuestra pagina.
+Inicio Sesion---Aqui iniciamoos el login , con usuario y password.
+Error---El error mas comun que hay es el 404 not found, pero en este caso manejado con la interfaz.
+InicioSesionExioso---Vemos nuestro inicio dandonos la bienvenida.
+----------------------------------------------------------------------------------------------
+
+- Cuandpo las imagenes son muy pesadas , la carga de la pagina es mas lenta.
+- Usamos localStorage para almacenamiento local al momento de ingresar nuestros datos.
+- Usamos el Framework de Bootstrap y React-Bootstrap para darle diseño a nuestra pagina de React.
+- Controlamos los errores comunes en internet como el 404 para que nos de una
+  pantalla de error, pero con interfaz.
+- Usamos los estilos que bootstrap nos brinda e hicimos una pagina decente.
+- Agregamos diseños como imagenes a nuestra pagina y tambien slides
+- Desarrollamos la pagina para que solo se modifique la division del logeo o en este caso todo el
+  contenido, ya que el Footer comoo el header son estaticos ante cualquier cambio
