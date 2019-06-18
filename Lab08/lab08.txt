@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------------------
+- Creamos 2 componentes ChatContent y ChatMessages, uno para los mensajes y otro para el contenido, 
+  al tener ya definido los estilos proporcionados
+- Usamos sockets para un chat en vivo a nuestro proyecto.
+- Nos creamos una cuenta en ZEIT con la cuenta de GIThub
+- Creamos los componentes, para el contenido, usuarios y mensajes, y lo implementamos
+  en una vista Chat, usamos estilos e importamos fortawesome para el uso de iconos.
+- Nos logueamos con el usuario creado hace 2 loaboratorios.
+- Creamos 2 componentes ChatContent y ChatMessages, uno para los mensajes y otro para el contenido.
+- Usamos la libreria avatar, para obtener la imagen de un correo electronico, o de cualquier red social.
+  mandandole el link del correo.
